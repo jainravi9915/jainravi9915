@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Jain</h1>
-<h3 align="center">I am a skilled professional with a year of valuable experience in Deutsche Bank Group,, I complement my 2022 MCA degree from NITT as a skilled professional. Proficient in C, C++, Java, Data Structures and Algorithms, as well as Database Management Systems, my expertise extends to Spring Boot, demonstrating a robust foundation in software development.</h3>
+<h4 align="center">I am a skilled professional with a year of valuable experience in Deutsche Bank Group,, I completed MCA degree from NITT in 2022. Proficient in C, C++, Java, Data Structures and Algorithms, as well as Database Management Systems, my expertise extends to Spring Boot, demonstrating a robust foundation in software development.</h4>
 
 - 📫 How to reach me **jainravi9915@gmail.com**
 
